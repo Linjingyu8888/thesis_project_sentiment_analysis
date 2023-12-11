@@ -1,0 +1,4 @@
+dateparser
+nltk
+matplotlib
+flair==0.5
